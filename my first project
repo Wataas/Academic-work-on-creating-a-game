@@ -1,0 +1,48 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    bool faca=false;
+    int escolha;
+   
+        cout<<"-----------------------------------------------------------------------"<< endl;
+        cout<<"O branco é a única coisa que você conhece. Não há paredes, não há teto, apenas um vazio infinito que se estende para todas as direções. Você está sentado em um pequeno quadrado de carpete, o único ponto em meio\n    ao nada"<< endl;
+        cin.get();
+        cout<<"|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"<< endl;
+        cout<<"Bem vindo ao espaço branco, vc vive aqui desde que consegue se lembrar.";
+        cin.get();
+        cout<<"Não existem portas, janelas ou paredes";
+        cin.get();
+        cout<<"Você se levanta e sente o frio do chão invisível, a sua frente um gato preto te olha com desdém, a sua direita brilha suavemente a luz de um laptop velho, emitindo um fraco som de estática, junto do laptop há um caderno de desenhos com figuras que vc se recusa a visualizar";
+        cin.get();
+        cout<<"-------------------------------------------------------------------------"<< endl;
+        cout<<"olhando para cima uma lampâda preta paira pelo ar, de alguma forma ela mantém vc afastado da escuridão, enquanto a via balançar, de repente, um brilho metálico corta o vazio e uma faca cai do céu aterrisando perto de vc."<< endl;
+        cout<<"-------------"<< endl;
+        cout<<"oque vc faz?"<< endl;
+        cout<<"1-pegar faca."<< endl;
+        cout<<"2-não pegar."<< endl;
+        cin>>escolha;
+        cin.ignore();
+if (escolha==1) {faca=true;
+        cout<<"o metal está frio.";
+        cin.get();
+        cout<<"vc sente uma sensação familiar.";
+        cin.get();
+        cout<<"vc adquiriu 'faca!'";}
+ else if (escolha==2) {faca=false;
+        cout<<"vc decide deixar a lâmina onde esta";
+        cin.get();
+        cout<<"o brilho dela te assuta.";}
+        cin.get();
+        cout<<"--------------------------------------------------------------------------"<< endl;
+       
+       
+       
+        cout<<"É mais um dia como todos os outros, ou seria noite? vc decide não pensar sobre isso. Mas vc sente que há algo fora do lugar, algo que não devia estar lá ";
+        cin.get();
+        cout<<"------------"<< endl;
+        cout<<"oque vc faz?"<< endl;
+        cout<<"1-investigar"<< endl;
+        cout<<"2-nada"<< endl;
+        cin>>escolha;
