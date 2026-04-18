@@ -1,5 +1,5 @@
 Eu queria adicionar mais coisas e mais finais
-caso a escolha do jogador fosse não fazer nada.
+caso a escolha do jogador fosse "não fazer nada".
 Porem pelo prazo apertado e problemas tecnicos
 tive que finalizar o jogo.
 
