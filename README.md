@@ -12,3 +12,8 @@ tempo que aumento o conteúdo do jogo. Além disso,
 tbm estou pesquisando sobre as bibliotecas do C++
 que quero implementar para deixá-lo visualmente 
 jogável.>
+
+2 semanas dps criei um novo repertório chamado "clearning the code".
+Sinto que evolui bastante ao aprender a implementar switch, cases e laços de repetição. Por conta disso estou tentando reescrever tudo de uma forma que sua edição fique facilitada e limpa, esqueci de mencionar o void aliás.
+
+PS: esse repertorio provavelmente n sera mais atualizado, pois planejo deixar de lembrança e continuálo em outro reperótio.
