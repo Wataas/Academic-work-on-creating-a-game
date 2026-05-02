@@ -17,3 +17,4 @@ jogável.>
 Sinto que evolui bastante ao aprender a implementar switch, cases e laços de repetição. Por conta disso estou tentando reescrever tudo de uma forma que sua edição fique facilitada e limpa, esqueci de mencionar o void aliás.
 
 PS: esse repertorio provavelmente n sera mais atualizado, pois planejo deixar de lembrança e continuálo em outro reperótio.
+PS-2: Erros de escritas sendo causados pela tradução automatica, mesmo que eu desligue
